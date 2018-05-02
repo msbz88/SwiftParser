@@ -64,7 +64,7 @@ namespace SwiftParser {
         }
 
         public void ExecuteComparison(string master, string test) {
-            // IEnumerable<char> diff;
+            //IEnumerable<char> diff;
             //ExcelFont fontColor = ExcelWorkbook.CreateFont();
             //fontColor.KnownColor = ExcelColors.Red;
 
